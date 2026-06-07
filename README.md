@@ -1,5 +1,6 @@
 # EX-NO-11-ELLIPTIC-CURVE-CRYPTOGRAPHY-ECC
-
+## NAME: KANISHKA P
+## REG NO: 2305001011
 ## Aim:
 To Implement ELLIPTIC CURVE CRYPTOGRAPHY(ECC)
 
@@ -99,6 +100,8 @@ return 0;
 
 
 ## Output:
+<img width="797" height="363" alt="image" src="https://github.com/user-attachments/assets/403e5865-e6c8-45b9-8996-e31247bb36ad" />
+
 
 
 
